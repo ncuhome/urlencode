@@ -1,7 +1,7 @@
 # urlencode
 ## 1.安装
 ```
-go get github.com/kaixinhupo/urlencode
+go get github.com/ncuhome/urlencode
 ```
 
 ## 2.使用
